@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrashDemo</string>
+   	
+    <!-- 崩溃日志路径 -->
+    <string name="logpath">epointcrash/pjq</string>
+
+</resources>
